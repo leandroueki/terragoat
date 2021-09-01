@@ -5,5 +5,5 @@ resource azurerm_security_center_subscription_pricing "pricing" {
 resource azurerm_security_center_contact "contact" {
   alert_notifications = false
   alerts_to_admins    = false
-  email               = "some@email.com"
+  email               = "ltueki@email.com"
 }
